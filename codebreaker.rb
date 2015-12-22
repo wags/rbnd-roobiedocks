@@ -26,22 +26,13 @@ code = "M.E?CIQN E?RS, D?NA EQC,IN S,,I Z?TQAM,"
 # ========================
 
 # Step 0
-code = code.reverse.chop.reverse
+code = code.slice(1, code.length-1)
 
-# Step 1
-code = code.insert(11, 'A EW? O')
+# Steps 1 & 2
+code = code.insert(11, 'A EW? O').delete 'Q?,'
 
-# Step 2
-code = code.delete 'Q?,'
-
-# Step 3
-code = code.downcase
-
-# Step 4
-code = code.reverse
-
-# Step 5
-code = code.capitalize
+# Steps 3, 4 and 5
+code = code.downcase.reverse.capitalize
 
 # Step 6
 puts code
