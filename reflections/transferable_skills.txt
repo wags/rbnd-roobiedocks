@@ -1,0 +1,7 @@
+I graduated with a Bachelor's Degree in Computer Information Science in 2006, and I have never wanted to stop learning. I have been fortunate to continue learning with the help of real-world challenges during my career. During the nine+ years, I have worked with various programming languages (Basic, C#, Java, Objective-C, Python), many web technologies and frameworks, and other software applications.
+
+I have a high level of commitment to the projects I take on, and strong determination when it comes to debugging and working through code challenges.
+
+I am passionate about the quality of my work and care about the many details that contribute to the overall user experience of the application or process.
+
+I plan to bring all these into this Ruby course, and hope to emerge an even better programmer!

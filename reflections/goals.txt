@@ -1,0 +1,13 @@
+Hi!
+
+My name is Matthew Wagner. I found Udacity through a GitHub blog post, and was so excited to see that GitHub partnered with you for this Ruby course. I simply had to sign up, because I have a dream of working at GitHub.
+
+I have already applied for an Elasticsearch Infrastructure Engineer position there, but the holidays have slowed the overall application process and I am waiting for next steps with them.
+
+In the job description for that role, there was a Bonus section that listed Ruby on Rails experience. I have only dabbled with Ruby (using training videos on Treehouse) and felt like I had to do something to get some credible experience. Investing in a Nanodegree from Udacity will help me show GitHub that I am committed to learning Ruby and am ready to bring all my skills to their team.
+
+I've been working for a company in Central New York for over nine years now, and have done a lot of programming in that time. I have tons of full-stack experience, with insight into how various software and hardware interacts. I help keep our existing infrastructure running, and am always researching, learning and implementing other technologies that can provide value to my company.
+
+I am ready to supercharge my skill set (adding Ruby to the list!) and make a career jump to a large company like GitHub. Much of what I have worked on only affects the employees here, and sometimes our customers. I want to help build things that will reach millions of people and I want to give back and contribute to the open source community. I wouldn't be where I am today without it!
+
+Thank you for this course, for reading through my goals and for any help or tips you might be able to provide! I am looking forward to working with you.
